@@ -1,0 +1,64 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    border: 5;
+
+}
+ h1{color:white; 
+    text-shadow:orange; text-shadow: orangered 10px 5px; 
+ }
+h2 {color:white; 
+    text-align: center; 
+    text-shadow:orange; text-shadow: orangered 10px 5px ;margin-top: 40px;margin-bottom: 15px;margin: 10px;}
+
+h3 {color:white; 
+    text-align: center; 
+    text-shadow:green 10px 5px;}
+
+
+}
+h6 {text-align: left;}
+
+nav {text-align: center;
+}
+
+button {position: relative;margin-left: 5px;!important
+}
+body { background-color: black;
+    color:white;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+a {color:rgb(255, 255, 255);
+}
+ul {margin-left: 5%;}
+
+.logo,h1 {display:inline-block;}
+
+#bg{text-align: center;}
+
+.intro {display: flex; margin: 5%}
+.beyond {display:flex;align-items: flex-start;margin:10%}
+
+.cinema {display:flex;margin-left:10%;margin-right: 10%;}
+
+.labs {display:flex;margin-left:10%;margin-right: 10%;}
+
+.art {display:flex;margin-left:10%;margin-right: 10%;}
+
+.suport {display:flex;margin-left:10%;margin-right: 10%;}
+
+
+.shop {text-align: center;}
+h6 {text-align: center;}
+
+video {width: 75%;height: 75%; display:flex;margin-left: 15%; }
+
+
+#audio {text-align: right
+    ;align-items: right}
+
+@media (max: width 768px;){}
+footer {text-align: end;}
+.social {text-align: right;}
+}

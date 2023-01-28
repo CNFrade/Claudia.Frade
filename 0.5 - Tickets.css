@@ -1,0 +1,47 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    border: 5;
+
+}
+ h1{color:white; 
+    text-shadow:orange; text-shadow: orangered 10px 5px; 
+ }
+h2 {color:white; 
+    text-align: center; 
+    text-shadow:orange; text-shadow: orangered 10px 5px ;margin-top: 40px;margin-bottom: 15px;margin: 10px;}
+
+h3 {color:white; 
+    text-align: center; 
+    text-shadow:green 10px 5px; margin-top: 5%;
+}
+h6 {text-align: left;margin-left:10%}
+
+nav {text-align: center;
+}
+
+button {position: relative;margin-left: 5px;!important
+}
+body { background-color: black;
+    color:white;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+a {color:rgb(255, 255, 255);
+}
+ul {margin-left: 5%;margin-bottom: 5%;}
+
+.logo,h1 {display:inline-block;}
+
+.tickets { display:flex;text-align: center;}
+
+
+
+
+
+
+footer {text-align: end;}
+.social {text-align: right;}
+.amnassadors {display: flex; text-align: center;justify-content: center;}
+.refunds {display: flex;text-align: center;justify-content: center;}
+.resales {display:flex;text-align: center;justify-content: center;}
